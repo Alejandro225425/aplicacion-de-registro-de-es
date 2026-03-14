@@ -1,0 +1,16 @@
+# Binaries and executables
+*.exe
+*.o
+*.obj
+
+# Temp files
+temp_sim_write.dat
+archivo_grande_simulado.dat
+compile_errors.txt
+test_hola_mundo.txt
+
+# IDE / System files
+.vscode/
+.idea/
+*.swp
+*.log
